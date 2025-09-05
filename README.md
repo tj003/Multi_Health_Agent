@@ -104,3 +104,22 @@ GROQ_API_KEY=your_api_key_here
 4. Copy the key and paste it in your `.env` file.  
 
 ]
+
+
+
+
+---
+
+## 📌 Submission Notes
+This project was developed as part of the **AI Engineer Assessment for GOQii**.  
+It demonstrates a production-style **CrewAI multi-agent system** with modular code, async orchestration, and error handling.
+
+📂 Repo: [Multi_Health_Agent](https://github.com/tj003/Multi_Health_Agent)  
+👤 Author: **Tushar Jadhav**  
+📅 Date: September 2025  
+
+---
+✅ Built with **CrewAI + LangChain + Groq LLMs**  
+✅ Designed for **scalability, clarity, and maintainability**  
+✅ Covers **Data Mining → Summarization → Decision Classification** end-to-end  
+
