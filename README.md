@@ -1,5 +1,7 @@
 # Multi-Agent Health News System (CrewAI)
 
+Huggingface deployed link - https://huggingface.co/spaces/TJ003/Multi-Health-Agent
+
 ##  Overview
 This project implements a **multi-agent system** using [CrewAI](https://github.com/joaomdmoura/crewAI).  
 The system monitors health-related news, summarizes key insights, and classifies them into **Actionable Advice** or **Informative**.
