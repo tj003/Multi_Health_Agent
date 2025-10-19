@@ -6,7 +6,6 @@ Huggingface deployed link - https://huggingface.co/spaces/TJ003/Multi-Health-Age
 This project implements a **multi-agent system** using [CrewAI](https://github.com/joaomdmoura/crewAI).  
 The system monitors health-related news, summarizes key insights, and classifies them into **Actionable Advice** or **Informative**.
 
-It is designed as part of an **AI Engineer assessment for GOQii**.
 
 ---
 
